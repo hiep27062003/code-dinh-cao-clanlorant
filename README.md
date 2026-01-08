@@ -1,7 +1,7 @@
 1. Clone source code về máy tính 
    git clone ....
 2. Cập nhật thư viện vendor về máy
-   composer install
+   composer,nodejs
 3. Copy file .env.example và đổi tên thành .env
 
 4. Trong file .env kiểm tra các trường :
@@ -12,8 +12,3 @@
 
 
 Github: 
-   Sau khi code xong:
-                      - git pull origin main Để update code mới nhất về 
-                      - git add . Để thêm các file cần thay đổi vào git
-                      - git commit -m "ghi chú" Để ghi chú thay đổi muốn đẩy lên
-                      - git push origin main Để đẩy code lên nhánh main
